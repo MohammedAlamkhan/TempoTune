@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempoTune</string>
+    <string name="tagline">Practice player</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="unknown_album">Unknown album</string>
+    <string name="tempo">Tempo</string>
+    <string name="pitch">Pitch</string>
+    <string name="tempo_hint">Speed only · same key</string>
+    <string name="pitch_hint">Key only · same speed</string>
+    <string name="reset">Reset</string>
+    <string name="tempo_range_start">50%</string>
+    <string name="tempo_range_end">200%</string>
+    <string name="pitch_range_start">−12 st</string>
+    <string name="pitch_range_end">+12 st</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous_track">Previous track</string>
+    <string name="next_track">Next track</string>
+    <string name="rewind_10">Back 10 seconds</string>
+    <string name="forward_10">Forward 10 seconds</string>
+    <string name="queue">Queue</string>
+    <string name="up_next">Up next</string>
+    <string name="track_count">%1$d in queue</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="playback_error">Couldn’t play this file. It may have moved or access was revoked.</string>
+    <string name="service_unavailable">The playback service couldn’t start. Please reopen TempoTune.</string>
+    <string name="library_title">Your library</string>
+    <string name="search_placeholder">Search songs, artists, albums</string>
+    <string name="search_clear">Clear search</string>
+    <string name="tab_songs">Songs</string>
+    <string name="tab_artists">Artists</string>
+    <string name="tab_albums">Albums</string>
+    <string name="all_formats">All</string>
+    <string name="artist_filter">Artist: %1$s</string>
+    <string name="album_filter">Album: %1$s</string>
+    <string name="clear_filters">Clear filters</string>
+    <string name="no_music_title">No music found</string>
+    <string name="no_music_body">Audio files can take a moment to appear after they are added to your device.</string>
+    <string name="no_results_title">Nothing matches</string>
+    <string name="no_results_body">Try a different search or clear the filters.</string>
+    <string name="library_error">Couldn’t read your music library.</string>
+    <string name="retry">Try again</string>
+    <string name="refresh_library">Refresh library</string>
+    <string name="permission_title">Bring your music in</string>
+    <string name="permission_body">TempoTune shows audio already on this device. Nothing is uploaded, and you can revoke access at any time.</string>
+    <string name="allow_music_access">Allow music access</string>
+    <string name="permission_denied_body">Music access is off. Enable it in system settings to browse your library.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="no_track_playing">Nothing playing yet</string>
+    <string name="back">Back</string>
+    <string name="now_playing_title">Now playing</string>
+    <string name="open_player">Open practice player</string>
+    <string name="scanning_library">Scanning your library…</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="pitch_zero">0 st</string>
+    <string name="pitch_positive">+%1$d st</string>
+    <string name="pitch_negative">−%1$d st</string>
+    <string name="now_playing_state">Playing</string>
+    <string name="paused_state">Paused</string>
+    <string name="buffering_state">Loading</string>
+    <string name="artwork_description">Album artwork</string>
+    <string name="current_track_marker">Current track</string>
+    <plurals name="song_count">
+        <item quantity="one">%1$d song</item>
+        <item quantity="other">%1$d songs</item>
+    </plurals>
+    <plurals name="track_count_plural">
+        <item quantity="one">%1$d track</item>
+        <item quantity="other">%1$d tracks</item>
+    </plurals>
+    <plurals name="artist_count">
+        <item quantity="one">%1$d artist</item>
+        <item quantity="other">%1$d artists</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="one">%1$d album</item>
+        <item quantity="other">%1$d albums</item>
+    </plurals>
+</resources>
